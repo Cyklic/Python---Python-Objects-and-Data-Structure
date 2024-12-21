@@ -1,4 +1,4 @@
-Python---Python-Objects-and-Data-Structure
+Python-Objects-and-Data-Structure
 
 Completed on 20th September, 2024
 
